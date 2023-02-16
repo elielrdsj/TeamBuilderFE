@@ -1,0 +1,18 @@
+.busca {
+    border-radius: 15px;
+    height: 3em;
+    align-self: center;
+}
+.searchBar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    margin-top: 10px;
+}
+.searchBar button {
+    margin-top: 10px;
+    border-radius: 15px;
+    height: 30px;
+}

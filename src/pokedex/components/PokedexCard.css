@@ -1,0 +1,69 @@
+.fire {
+    background-color: #fd7d24;
+}
+.grass {
+    background-color: #9bcc50;
+}
+.poison {
+    background-color: #b97fc9;
+}
+.water {
+    background-color: #4592c4;
+}
+.flying {
+    background-color: #3dc7ef;
+}
+.bug {
+    background-color: #719f3f;
+}
+.electric {
+    background-color: #eed535;
+}
+.ground {
+    background-color: #ab9842;
+}
+.fairy {
+    background-color: #fdb9e9;
+}
+.normal {
+    background-color: #a4acaf;
+}
+.psychic {
+    background-color: #f366b9;
+}
+.fighting {
+    background-color: #d56723;
+}
+.dark {
+    background-color: #707070;
+}
+.ice {
+    background-color: #51c4e7;
+}
+.rock {
+    background-color: #a38c21;
+}
+.dragon {
+    background-color: #f16e57;
+}
+.ghost {
+    background-color: #7b62a3;
+}
+.steel {
+    background-color: #9eb6b7;
+}
+.pokemonCard {
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+.types {
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    justify-content: center;
+}
